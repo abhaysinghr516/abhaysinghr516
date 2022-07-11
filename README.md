@@ -1,41 +1,27 @@
-## Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=abhaysinghr516.abhaysinghr516)
+### Hi there, I am Abhay 👋
+
+- 🔭 I am currently growing my skills in MERN ecosystem
+- 🌱 I am currently learning React Native framework
+- 👯 I am looking to collaborate on Javascript Projects
+- 💬 Ask me about Javascript, ReactJS
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <br />
 
-hi, i'm [Abhay](https://abhaysinghrathore.me), a passionate, full-stack developer and software engineer from India. I'm very focused on the experience, architecture, code quality, and problem solving of what I'm building.
+### Languages and Tools:
 
-I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+<img align="left" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="50">
+<img align="left" src="https://media.giphy.com/media/KzWMBa9V3z8jHJCEC7/giphy.gif" width="50">
+<img align="left" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
+<img align="left" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50">
+<img align="left" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50">
+<img align="left" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 
-  
-- 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate on DevSecOps、IAST or RASP
-- 💬 ask me about anything, i am happy to help; [email](mailto:abhaysinghr516@gmail.com) :)
-
-**languages and tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-Solidity            34 hrs 26 mins  █████████████████▒░░░░░░░   73.93 %
-Other           4 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.81 %
-```
-
-<!--END_SECTION-->
-
-
-🚧 **my todoist stats:**
-
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
-
-📈 my github stats
-
-![](https://github-readme-stats.vercel.app/api?username=abhaysinghr516)
+[twitter]: https://twitter.com/abhaysinghr1
+[instagram]: https://www.instagram.com/abhaybanna1/
+[linkedin]: https://www.linkedin.com/in/abhaysinghr516/
