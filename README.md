@@ -1,7 +1,7 @@
 ### Hi there, I am Abhay 👋
 
-- 🔭 I am currently growing my skills in MERN ecosystem
-- 🌱 I am currently learning React Native framework
+- 🔭 I am currently growing my skills in RUST
+- 🌱 I am currently learning NEXT.JS 13
 - 👯 I am looking to collaborate on Javascript Projects
 - 💬 Ask me about Javascript, ReactJS
 
