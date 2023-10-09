@@ -26,4 +26,3 @@
 [instagram]: https://www.instagram.com/abhaybanna1/
 [linkedin]: https://www.linkedin.com/in/abhaysinghr516/
 
-<a href="https://app.daily.dev/abhaysinghrathore"><img src="https://api.daily.dev/devcards/4ffcf48b47754216a15a49f1a436e2d3.png?r=av6" width="400" alt="Abhay Singh Rathore's Dev Card"/></a>
