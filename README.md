@@ -1,8 +1,11 @@
 ### Hi there, I am Abhay 👋
 
-- 🔭 I am currently growing my skills in RUST
-- 🌱 I am currently working on NEXT.JS
-- 💬 Ask me about Javascript, ReactJS
+- 🔭 Currently sharpening my skills in RUST
+- 🌱 Working on projects with NEXT.JS
+- 💬 Ask me about JavaScript and ReactJS
+
+Let's code and innovate together! 🚀
+
 
 ### Connect with me:
 
