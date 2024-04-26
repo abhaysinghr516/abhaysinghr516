@@ -44,6 +44,7 @@ Let's connect and explore exciting opportunities to collaborate or discuss the l
 [instagram]: https://www.instagram.com/abhaybanna1/
 [linkedin]: https://www.linkedin.com/in/abhaysinghr516/
 
+
 ## 🎉 Fun Facts
 
 - 🎵 Music is my escape, and I enjoy listening to a wide range of genres.
