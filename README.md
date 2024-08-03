@@ -14,7 +14,6 @@ Imagine Tony Stark, but instead of building iron suits, I craft digital solution
 I'm not just a backend hermit or a frontend fashionista. I'm the complete package! As a UI/UX designer, I don't just make things work; I make them look good too. It's like being a digital tailor, ensuring every user experience fits just right.
 </details>
 
-
 ## 💼 Experience
 
 <details>
@@ -53,7 +52,7 @@ Designed and implemented responsive, user-friendly interfaces for various client
 Built and maintained web applications from scratch, handling both front-end and back-end development for clients across various industries.
 
 - Delivered over 20 web applications meeting client requirements
-## - Improved application performance by optimizing code and database queries
+- Improved application performance by optimizing code and database queries
 - Integrated third-party APIs enhancing functionality
 </details>
 
@@ -84,6 +83,10 @@ Built and maintained web applications from scratch, handling both front-end and 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaysinghr516&theme=radical" alt="Abhay's GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhaysinghr516&theme=dracula" alt="Abhay's GitHub Profile Summary" />
+</div>
+
 ## 🌱 Currently Growing
 
 - 🔭 Sharpening my skills in **Rust**
@@ -108,10 +111,4 @@ Built and maintained web applications from scratch, handling both front-end and 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=abhaysinghr516&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+build+something+amazing+together!&font=Fira%20Code&center=true&width=380&height=50">
 </div>
