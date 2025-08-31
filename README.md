@@ -26,7 +26,7 @@ Infra:    AWS, Docker, CI/CD, Kubernetes
 ## Recent Work
 
 -   **Ananta Svastha** (2025) - Led backend development, built modular monolith architecture
--   **Snippet Hive** (2023-24) - Architected AI code snippet platform, built Chrome/VS Code extensions
+-   **Snippet Hive** (2023-25) - Architected AI code snippet platform, built Chrome/VS Code extensions
 -   **Various Clients** (2021-23) - Delivered 20+ web apps, PWAs, payment integrations, performance optimization
 -   **AR Bike Catalogue** (2024) - Built AR application using Unity and Vuforia for immersive 3D experiences
 
